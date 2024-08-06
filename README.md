@@ -62,7 +62,7 @@ The use of the word “champagne” which is a “Full-bodied white” has stirr
 From the above analysis we see errors that are primarily domain knowledge related. However, in the reviews we also have text that are redundant and do not contribute to the classification with respect to taste of quality of wine as seen below. Hence, a recommendation from this would to carefully curate samples that are used to train the wine-recommendation model in order to obtain more accurate results.
 >![image](https://github.com/user-attachments/assets/b183f4f0-de95-4447-9d9d-a8186e30a5f9)
 
-
+For more details please refer to Project Report.pdf
 
 
   
